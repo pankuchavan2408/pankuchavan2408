@@ -1,8 +1,27 @@
-- 👋 Hi, I’m pankaja
-- 💞️ I’m looking to collaborate on event management project
-- 📫 How to reach me 
-https://www.linkedin.com/in/pankaja-chavan-783790202
-<!---
-pankuchavan2408/pankuchavan2408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Pankaja 👋
+
+React Native Developer with 3.5+ years of experience building scalable mobile applications.
+
+## 🚀 Tech Stack
+- React Native
+- JavaScript
+- TypeScript
+- Firebase
+- Redux
+- REST APIs
+- Jira
+- Agile
+
+## 📱 Projects
+- Banking App
+- E-commerce App
+- Event Management App
+
+## 🌱 Currently Learning
+- Mobile App Security
+- Product Management
+- System Design
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/pankaja-chavan-5718a7229
+Email: itsmepankaja2408@gmail.com
